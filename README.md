@@ -1,6 +1,5 @@
 # Aws-cloud-image-copy-project
-
-Alright — here’s the full step-by-step process to set up the S3 and Lambda integration:
+here’s the full step-by-step process to set up the S3 and Lambda integration:
 
 **1. Create S3 Buckets:**
 - Go to the AWS S3 console.
@@ -51,4 +50,3 @@ Alright — here’s the full step-by-step process to set up the S3 and Lambda i
 - Go to the S3 console and upload an image to `source-bucket-yourname`.
 - Check the `destination-bucket-yourname` — the image should be copied automatically!
 
-Want me to help with permissions or testing? Let me know! 🚀
